@@ -1,4 +1,4 @@
-# Teste Potestatem - Laravel 5 
+# Painel Administrativo de Cursos - Laravel 5 
 
 ## Quick Installation
 
